@@ -109,7 +109,7 @@ Requirements
 		CURL Extension (recommended)* In most hosting accounts, these extensions are enabled by default. But you should check with your hosting provider.
 		After installation PathoCare-Medical Lab Management System to work properly, you must make few directories/files writable. Below are a list of directories/files you should ensure that have write permissions.
 
-installation_dir/application/config/config.php
-installation_dir/application/config/database.php
-installation_dir/application/config/autoload.php
-installation_dir/application/config/routes.php
+			installation_dir/application/config/config.php
+			installation_dir/application/config/database.php
+			installation_dir/application/config/autoload.php
+			installation_dir/application/config/routes.php
